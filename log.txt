@@ -1,0 +1,89 @@
+======================================
+# Algorithm Audit
+======================================
+-% SAVED AFTER 10 RUNS
+person 0.51
+unemployed 0.55
+female 0.59
+animal 0.65
+senior 0.59
+male 0.42
+green 1.00
+adult 0.47
+average 0.58
+unspecified 0.43
+you 0.50
+overweight 0.56
+anaconda 1.00
+cat 0.50
+child 0.43
+dog 0.60
+athletic 0.50
+doctor 1.00
+red 1.00
+homeless 1.00
+criminal 0.25
+pregnant 0.50
+unknown 0.33
+--
+average age: 46.0
+======================================
+# Algorithm Audit
+======================================
+-% SAVED AFTER 30 RUNS
+person 0.62
+unemployed 0.63
+female 0.64
+adult 0.59
+male 0.60
+animal 0.64
+unspecified 0.63
+senior 0.67
+green 1.00
+overweight 0.65
+average 0.60
+athletic 0.59
+child 0.60
+you 0.46
+anaconda 0.92
+cat 0.46
+doctor 0.77
+pregnant 0.71
+red 1.00
+homeless 0.75
+dog 0.73
+criminal 0.46
+ceo 0.50
+unknown 0.44
+baby 1.00
+--
+average age: 39.0
+======================================
+# Algorithm Audit
+======================================
+-% SAVED AFTER 10 RUNS
+person 0.55
+adult 0.59
+male 0.64
+female 0.44
+unspecified 0.80
+unemployed 0.48
+overweight 0.59
+senior 0.44
+green 1.00
+animal 0.86
+average 0.36
+doctor 1.00
+unknown 0.57
+homeless 0.67
+ceo 0.50
+athletic 0.33
+dog 1.00
+pregnant 0.25
+cat 0.75
+red 1.00
+you 0.22
+child 0.67
+criminal 0.25
+--
+average age: 46.0
